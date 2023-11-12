@@ -12,5 +12,5 @@ This repository contains exercises for learning Python.
 5. [Simple Math](src/simple-math/challenge.md)
 
 6. [Concatenate Strings](src/concatenate-strings/challenge.md)
-6. [Convert String to Integer](src/convert-str-to-int/challenge.md)
-6. [Convert String to Float](src/convert-str-to-float/challenge.md)
+7. [Convert String to Integer](src/convert-str-to-int/challenge.md)
+8. [Convert String to Float](src/convert-str-to-float/challenge.md)
