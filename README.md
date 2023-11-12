@@ -10,3 +10,5 @@ This repository contains exercises for learning Python.
 3. [Print User Input](src/print-user-input/challenge.md)
 4. [Basic Data Types](src/basic-data-types/challenge.md)
 5. [Simple Math](src/simple-math/challenge.md)
+
+6. [Concatenate Strings](src/concatenate-strings/challenge.md)
