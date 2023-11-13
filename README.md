@@ -28,3 +28,4 @@ This repository contains exercises for learning Python.
 > 2. [Power Operator](src/power-operator/challenge.md)
 > 3. [One-Way Condition](src/one-way-condition/challenge.md)
 > 4. [Two-Way Condition](src/two-way-condition/challenge.md)
+> 5. [Loop Array](src/loop-array/challenge.md)
