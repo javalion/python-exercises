@@ -23,3 +23,5 @@ This repository contains exercises for learning Python.
 > 5. [Tuple Assignment](src/tuple-assignment/challenge.md)
 
 ---
+### Set 3
+> 1. [Integer Division](src/integer-division/challenge.md)
