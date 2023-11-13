@@ -25,3 +25,4 @@ This repository contains exercises for learning Python.
 ---
 ### Set 3
 > 1. [Integer Division](src/integer-division/challenge.md)
+> 2. [Power Operator](src/power-operator/challenge.md)
