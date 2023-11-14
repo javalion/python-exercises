@@ -1,4 +1,4 @@
-# One-Way Condition
+# Two-Way Condition
 
 age = int (input("How old are you? "))
 
