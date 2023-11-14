@@ -29,3 +29,7 @@ This repository contains exercises for learning Python.
 > 3. [One-Way Condition](src/one-way-condition/challenge.md)
 > 4. [Two-Way Condition](src/two-way-condition/challenge.md)
 > 5. [Loop Array](src/loop-array/challenge.md)
+
+---
+### Set 4
+> 1. [Loop Range](src/loop-range/challenge.md)
