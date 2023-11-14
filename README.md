@@ -36,3 +36,4 @@ This repository contains exercises for learning Python.
 > 2. [Loop While](src/loop-while/challenge.md)
 > 3. [Nested Loop](src/nested-loop/challenge.md)
 > 4. [Print Multi-Line](src/print-multi-line/challenge.md)
+> 5. [Print First Character](src/print-first-character/challenge.md)
