@@ -34,3 +34,4 @@ This repository contains exercises for learning Python.
 ### Set 4
 > 1. [Loop Range](src/loop-range/challenge.md)
 > 2. [Loop While](src/loop-while/challenge.md)
+> 3. [Nested Loop](src/nested-loop/challenge.md)
