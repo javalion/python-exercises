@@ -37,3 +37,7 @@ This repository contains exercises for learning Python.
 > 3. [Nested Loop](src/nested-loop/challenge.md)
 > 4. [Print Multi-Line](src/print-multi-line/challenge.md)
 > 5. [Print First Character](src/print-first-character/challenge.md)
+
+---
+### Set 5
+> 1. [Print Last Character](src/print-last-character/challenge.md) 
