@@ -41,3 +41,4 @@ This repository contains exercises for learning Python.
 ---
 ### Set 5
 > 1. [Print Last Character](src/print-last-character/challenge.md) 
+> 2. [Print With Slice](src/print-with-slice/challenge.md) 
