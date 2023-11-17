@@ -44,4 +44,9 @@ This repository contains exercises for learning Python.
 > 22. [Print With Slice](src/print-with-slice/challenge.md) 
 > 23. [Print Strings List](src/print-strings-list/challenge.md) 
 > 24. [Print Mixed Type List](src/print-mixed-type-list/challenge.md) 
-> 25. [Access List Item](src/access-list-item/challenge.md) 
+> 25. [Access List Item](src/access-list-item/challenge.md)
+
+---
+### Set 6
+> 26. [Access Last List Item](src/access-last-list-item/challenge.md)
+ 
