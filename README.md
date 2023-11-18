@@ -51,4 +51,6 @@ This repository contains exercises for learning Python.
 > 26. [Access Last List Item](src/access-last-list-item/challenge.md)
 > 27. [Access List Items Slice](src/access-list-items-slice/challenge.md)
 > 28. [Loop Through List](src/loop-through-list/challenge.md)
+> 29. [Loop Through Set](src/loop-through-set/challenge.md)
+
  
