@@ -49,4 +49,5 @@ This repository contains exercises for learning Python.
 ---
 ### Set 6
 > 26. [Access Last List Item](src/access-last-list-item/challenge.md)
+> 27. [Access List Items Slice](src/access-list-items-slice/challenge.md)
  
