@@ -52,5 +52,6 @@ This repository contains exercises for learning Python.
 > 27. [Access List Items Slice](src/access-list-items-slice/challenge.md)
 > 28. [Loop Through List](src/loop-through-list/challenge.md)
 > 29. [Loop Through Set](src/loop-through-set/challenge.md)
+> 30. [Print Nested List](src/print-nested-list/challenge.md)
 
  
