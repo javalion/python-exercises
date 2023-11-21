@@ -54,4 +54,8 @@ This repository contains exercises for learning Python.
 > 29. [Loop Through Set](src/loop-through-set/challenge.md)
 > 30. [Print Nested List](src/print-nested-list/challenge.md)
 
+---
+### Set 7
+> 31. [Hello Message Function](src/hello-message-function/challenge.md)
+
  
