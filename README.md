@@ -58,4 +58,5 @@ This repository contains exercises for learning Python.
 ### Set 7
 > 31. [Hello Message Function](src/hello-message-function/challenge.md)
 > 32. [Process Divmod Result](src/process-divmod-result/challenge.md)
+> 33. [Class With Name](src/class-with-name/challenge.md)
  
