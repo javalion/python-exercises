@@ -61,4 +61,8 @@ This repository contains exercises for learning Python.
 > 33. [Class With Name](src/class-with-name/challenge.md)
 > 34. [Use Protocol](src/use-protocol/challenge.md)
 > 35. [Use Reversed](src/use-reversed/challenge.md)
+
+---
+### Set 8
+> 36. [Check String Is Numeric](src/check-string-is-numeric/challenge.md)
  
