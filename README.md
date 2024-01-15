@@ -66,4 +66,5 @@ This repository contains exercises for learning Python.
 ### Set 8
 > 36. [Check String Is Numeric](src/check-string-is-numeric/challenge.md)
 > 37. [Operate On Lists](src/operate-on-lists/challenge.md)
+> 38. [Access Environment Variable](src/access-environment-variables/challenge.md)
  
