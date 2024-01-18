@@ -67,4 +67,5 @@ This repository contains exercises for learning Python.
 > 36. [Check String Is Numeric](src/check-string-is-numeric/challenge.md)
 > 37. [Operate On Lists](src/operate-on-lists/challenge.md)
 > 38. [Access Environment Variable](src/access-environment-variables/challenge.md)
+> 39. [Class Strategy with Environment Variables](src/env-var-class-strategy/challenge.md)
  
